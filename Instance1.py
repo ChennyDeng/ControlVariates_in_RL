@@ -653,3 +653,4 @@ plotting_parameters = [xlabel, ylabel, title, location_to_save, cases, samples]
 
 # Regret Plotting
 regret_plotting(algos_regret, total_cases, plotting_parameters)
+
